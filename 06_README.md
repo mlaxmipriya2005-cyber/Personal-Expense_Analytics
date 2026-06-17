@@ -1,3 +1,6 @@
+Candidate Name- M Laxmi Priya
+Intern ID-CITS1412
+
 # Personal Expense Analytics
 
 ## Project Description
