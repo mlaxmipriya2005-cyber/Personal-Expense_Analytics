@@ -1,0 +1,11 @@
+Date,Category,Amount,Payment_Mode
+2026-06-01,Food,200,UPI
+2026-06-01,Travel,100,Cash
+2026-06-02,Shopping,1500,Card
+2026-06-02,Food,250,UPI
+2026-06-03,Bills,1200,UPI
+2026-06-03,Travel,300,Cash
+2026-06-04,Food,180,UPI
+2026-06-04,Entertainment,500,Card
+2026-06-05,Shopping,800,UPI
+2026-06-05,Bills,1000,UPI
